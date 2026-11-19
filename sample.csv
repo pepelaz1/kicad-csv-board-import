@@ -1,0 +1,7 @@
+kind,layer,start_x,start_y,end_x,end_y,center_x,center_y,direction,width,radius
+line,F.Cu,10,10,30,10,,,,0.6,
+line,F.Cu,30,10,30,20,,,,0.6,
+arc,F.Cu,30,20,20,30,20,20,CW,0.6,
+line,F.Cu,20,30,10,30,,,,0.6,
+hole,,12,12,,,,,,,0.6
+hole,,28,28,,,,,,,0.6
